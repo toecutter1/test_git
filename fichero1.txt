@@ -2,3 +2,5 @@ hOola mundo
 unistage otra vez cambio
 cambios hunk
 otro cambio hunk
+esta si
+esta no //NOCOMMIT
