@@ -1,2 +1,4 @@
 hOola mundo
-un cambio
+unistage otra vez cambio
+cambios hunk
+otro cambio hunk
