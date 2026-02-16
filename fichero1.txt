@@ -3,5 +3,6 @@ unistage otra vez cambio
 cambios hunk
 otro cambio hunk
 esta si
-no stage
+NO STAGE
 si stage
+
